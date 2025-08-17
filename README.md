@@ -22,7 +22,7 @@ Here are the primary tools and frameworks I work with:
 
 | Category                  | Technologies                                         |
 | ------------------------- | ---------------------------------------------------- |
-| **Core & Scientific** | `Python`, `PyTorch`                                  |
+| **Core & Scientific** | `Python`, `C++`, `PyTorch`                         |
 | **LLM Application** | `LangChain`, `Dify`, `FastAPI`                       |
 | **Deployment & Ops** | `Xinference`, `llama.cpp`, `GGUF Quantization`       |
 
@@ -42,4 +42,3 @@ My current research is centered on **novel computer vision model design**, parti
 I'm always open to discussing new ideas and potential collaborations.
 
 * **Email:** `edu.kangziyue@gmail.com`
-* **(Feel free to add your GitHub, LinkedIn, etc.)**
