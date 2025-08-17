@@ -1,0 +1,25 @@
+# Visual Studio / .NET Core specific
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+# User-specific files
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Aa]rtifacts/
+[Ll]og/
+
+# Rider files
+.idea/
+*.sln.iml
