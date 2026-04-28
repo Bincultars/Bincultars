@@ -1,8 +1,5 @@
 ﻿# Hi, I'm Bincultars 👋
 
-I am a senior undergraduate student at **Shaanxi University of Science & Technology**.
-I will soon join **Xi'an Jiaotong University (XJTU)** to pursue my Master's degree in **Control Science and Engineering**.
-
 I am passionate about **AI**, **Music**, and **Control Theory**. My goal is to build interesting and reliable systems.
 
 ---
@@ -29,10 +26,7 @@ I am currently exploring:
 
 * **Shaanxi University of Science & Technology** (2022 - 2026)
     * Major in Artificial Intelligence.
-* **Xi'an Jiaotong University** (Incoming, 2026)
-    * Admitted for Master's study in Control Science and Engineering.
-
----
+    
 
 ### 📫 Contact
 
