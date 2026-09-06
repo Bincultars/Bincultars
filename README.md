@@ -1,33 +1,19 @@
-﻿# Hi, I'm Bincultars 👋
+# Ziyue Kang | 康子越
 
-I am passionate about **AI**, **Music**, and **Control Theory**. My goal is to build interesting and reliable systems.
+I am an M.S. student in Control Science and Engineering at Xi'an Jiaotong University. I received my B.Eng. in Artificial Intelligence from Shaanxi University of Science & Technology.
 
----
+My research focuses on structured and multimodal representation learning for controllable and data-efficient generation.
 
-### 🌱 Research Interests
+现为西安交通大学控制科学与工程硕士研究生，本科毕业于陕西科技大学人工智能专业。我的研究聚焦于面向可控、数据高效生成的结构化与多模态表征学习。
 
-I am currently exploring:
+## Research Interests | 研究兴趣
 
-* **Music AI:** Algorithms for symbolic music understanding and generation.
-* **Multimodal Learning:** Intersections between vision and audio.
-* **Control Systems:** Applying control theory concepts to intelligent systems.
+- Structured and Multimodal Representation Learning · 结构化与多模态表征学习
+- Controllable Generative Modeling · 可控生成模型
+- Data-Efficient Learning · 数据高效学习
 
----
+## Links | 链接
 
-### 🔭 Current Focus
-
-* **Undergraduate Thesis:** Working on a project related to **controllable music generation**.
-* **Model Deployment:** Exploring local deployment and optimization of **Large Language Models (LLMs)**.
-* **Academic Preparation:** Self-studying advanced topics in **Machine Learning** and **Control Theory**.
-
----
-
-### 🏆 Education
-
-* **Shaanxi University of Science & Technology** (2022 - 2026)
-    * Major in Artificial Intelligence.
-    
-
-### 📫 Contact
-
-* **Email:** `edu.kangziyue@gmail.com`
+- [Personal Website](https://aibincultars.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en)
+- [Email](mailto:edu.kangziyue@gmail.com)
