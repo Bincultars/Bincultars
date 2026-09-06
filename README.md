@@ -21,8 +21,13 @@ My research focuses on structured and multimodal representation learning for con
 
 ---
 
-### 📫 Contact
+### 🔗 Links
 
 - [Personal Website](https://aibincultars.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en)
-- **Email:** [edu.kangziyue@gmail.com](mailto:edu.kangziyue@gmail.com)
+
+---
+
+### 🤝 Collaboration
+
+For research collaboration, please contact me at [edu.kangziyue@gmail.com](mailto:edu.kangziyue@gmail.com).
