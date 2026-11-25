@@ -25,6 +25,7 @@ My research focuses on structured and multimodal representation learning for con
 
 - [Personal Website](https://bincultars.github.io/)
 - [Hugging Face](https://huggingface.co/Bincultars)
+- [ModelScope](https://www.modelscope.cn/profile/Bincultars)
 - [Google Scholar](https://scholar.google.com/citations?user=ltaBNZIAAAAJ&hl=en)
 
 ---
